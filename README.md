@@ -2,7 +2,7 @@
 
 ## Description:
 
-The **Instagram Follower Comparison Tool** is a web application designed to help users analyze and compare their followers and following lists on Instagram. The tool enables users to download JSON files containing information about their followers and following relationships from Instagram.
+The **Unfollowers App** is a web application designed to help users analyze and compare their followers and following lists on Instagram. The tool enables users to download JSON files containing information about their followers and following relationships from Instagram.
 
 ## How to Use:
 
