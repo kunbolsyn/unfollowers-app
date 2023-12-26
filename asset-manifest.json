@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/unfollowers-app/static/css/main.ce229ce9.css",
+    "main.js": "/unfollowers-app/static/js/main.731ebe5f.js",
+    "static/js/787.c81af0db.chunk.js": "/unfollowers-app/static/js/787.c81af0db.chunk.js",
+    "index.html": "/unfollowers-app/index.html",
+    "main.ce229ce9.css.map": "/unfollowers-app/static/css/main.ce229ce9.css.map",
+    "main.731ebe5f.js.map": "/unfollowers-app/static/js/main.731ebe5f.js.map",
+    "787.c81af0db.chunk.js.map": "/unfollowers-app/static/js/787.c81af0db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce229ce9.css",
+    "static/js/main.731ebe5f.js"
+  ]
+}
